@@ -1,6 +1,6 @@
 In this project, let's build **Nxt Watch** 
 ### Design Files
-URL : <a href='https://suryasnxtwatch.ccbp.tech/' target='_blank'>suryasnxtwatch.ccbp.tech</a>
+URL : <a href='https://suryasnxtwatch.ccbp.tech/' target='__blank'>suryasnxtwatch.ccbp.tech</a>
 
 <details>
 <summary>Login Route</summary>
